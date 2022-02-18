@@ -19,7 +19,10 @@ class HomePageState extends State<HomePage> {
         child: Column(
           children: [
             UserAccountsDrawerHeader(
-              currentAccountPicture: Image.network('https://www.recicladarte.com/theme/img/parceiros/logos/61917746a6699__logo_recicladarte.jpg'),
+              currentAccountPicture: ClipRRect(
+                borderRadius: BorderRadius.circular(40),
+                child: Image.network('https://www.recicladarte.com/theme/img/parceiros/logos/61917746a6699__logo_recicladarte.jpg'),
+              ),
               accountName: Text('Maycon'),
               accountEmail: Text('nmaycon304@gmail.com'),
             ),
