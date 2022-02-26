@@ -8,6 +8,7 @@
 
 - [FlutLab.io](https://flutlab.io/)
 - [Curso flutterando em questão YouTube](https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&ab_channel=Flutterando)
+- [Parte 2 do curso](https://github.com/Maycon-crz/curso_flutterando_2)
 
 <img src='lib/curso_fluterando_login.PNG'>
 <img src='lib/curso_fluterando_home.PNG'>
